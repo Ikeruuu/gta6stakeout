@@ -161,7 +161,7 @@ p{margin:0}
 .faq details p{padding:0 0 20px;color:var(--muted)}
 
 /* follow */
-.follow{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.follow{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
 .social{display:flex;flex-direction:column;gap:10px;padding:26px 22px;border-radius:var(--radius);border:1px solid var(--line);background:var(--card);text-decoration:none;color:var(--text);transition:transform .15s ease,border-color .15s ease}
 .social:hover{transform:translateY(-3px);border-color:var(--pink);color:var(--text)}
 .social .ico{width:30px;height:30px;color:var(--pink)}

@@ -5,7 +5,6 @@ window.STAKEOUT = {
 
   socials: [
     { id: 'tiktok',    label: 'TikTok',    handle: '@gta6stakeout', url: 'https://www.tiktok.com/@gta6stakeout', blurb: 'Clips, tips and secrets, every day.' },
-    { id: 'instagram', label: 'Instagram', handle: '@gta6stakeout', url: 'https://www.instagram.com/gta6stakeout/', blurb: 'Reels and detail breakdowns.' },
     { id: 'x',         label: 'X',         handle: '@gta6stakeout', url: 'https://x.com/gta6stakeout', blurb: 'Every find the minute we post it.' },
     { id: 'youtube',   label: 'YouTube',   handle: '@gta6stakeout', url: 'https://www.youtube.com/@gta6stakeout', blurb: 'All our Shorts in one place.' }
   ],

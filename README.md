@@ -9,7 +9,7 @@ Static site for GitHub Pages. No build step, no dependencies, no cookies or trac
 3. Because it is a project site (served under `/gta6stakeout/`), `404.html` uses absolute paths starting with `/gta6stakeout/`. Every other page uses relative paths.
 4. In the repo: **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save**.
 5. After a minute or two the site is live at `https://ikeruuu.github.io/gta6stakeout`.
-6. Put that link in every bio (X, Instagram, TikTok, YouTube).
+6. The link is in every bio: X (website field), YouTube (channel links) and TikTok (bio text). Instagram was closed on 18 Nov 2026.
 
 If you use another account or repo name, the address changes: update `canonical`, `og:image` in `index.html`, `robots.txt` and `sitemap.xml`.
 
