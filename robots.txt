@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ikeruuu.github.io/gta6stakeout/sitemap.xml
