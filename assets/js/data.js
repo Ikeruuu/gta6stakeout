@@ -1,7 +1,7 @@
 // GTA 6 Stakeout: site content.
 // This is the only file to edit when adding clips, tips or numbers. Keep facts to what is in facts.md (primary sources only).
 window.STAKEOUT = {
-  updated: '2026-11-18',
+  updated: '2026-11-19',
 
   socials: [
     { id: 'tiktok',    label: 'TikTok',    handle: '@gta6stakeout', url: 'https://www.tiktok.com/@gta6stakeout', blurb: 'Clips, tips and secrets, every day.' },
@@ -25,6 +25,14 @@ window.STAKEOUT = {
 
   // Shorts already on our YouTube channel. thumb = local frame from our edit.
   clips: [
+    { yt: '-6e6TvVObX8', title: 'The sharks in GTA 6 get way too close', credit: 'HJDoogan on YouTube' },
+    { yt: 'ZAMKy-CkT5M', title: 'Shoot down the glider stuck in this tree', credit: 'Robbin Rams on YouTube' },
+    { yt: 'x7NDawcp6hg', title: 'This stone circle lights up at night', credit: 'Robbin Rams on YouTube' },
+    { yt: 'OpyYRYEaDxQ', title: 'Check the back seat before you steal a car', credit: 'Banden on YouTube' },
+    { yt: 'gL4SyWPhak8', title: 'A dog on a jet ski came to save Jason', credit: 'Punish on YouTube' },
+    { yt: 'bRd-WL4PKks', title: 'Something lives in the Leonida woods', credit: 'GTA Series Videos on YouTube' },
+    { yt: 'q7Plm9eGUno', title: 'GTA 6 has its own TV cartoons', credit: 'Loserfruit on Twitch' },
+    { yt: 'cCdAG5j9XyQ', title: "Whoever lives here thinks it's a simulation", credit: 'ZacCoxTV on YouTube' },
     { yt: 'xWoNEO08fPw', title: 'GTA 6 lets you switch to km/h', credit: 'DarkViperAU on Twitch' },
     { yt: 'IEFoSP6shys', title: 'This NPC talked back to xQc', credit: 'xQc on Twitch' },
     { yt: 'zhvH_eMqsPg', title: "xQc's first car theft in GTA 6", credit: 'xQc on Twitch' },
@@ -50,14 +58,15 @@ window.STAKEOUT = {
 
   // Verified numbers only (see facts.md for sources and the time each was checked).
   numbers: [
-    { value: '99', label: 'Metascore on PS5', note: '147 critic reviews, all positive. Metacritic, 18 Nov 2026' },
+    { value: '99', label: 'Metascore on PS5', note: '150 critic reviews, all positive. Metacritic, 19 Nov 2026' },
     { value: '212 GB', label: 'Max pre-load size', note: 'Depends on the console. Rockstar Newswire' },
     { value: '30', label: 'Frames per second', note: 'Target on PS5 and Xbox Series X|S. Rockstar Newswire' },
     { value: '34', label: 'Original tracks', note: 'Grand Theft Auto VI: The Album, with Atlantic Records' }
   ],
 
   faq: [
-    { q: 'When does GTA 6 come out?', a: 'Grand Theft Auto VI unlocks at midnight local time on 19 November 2026 in every region, on PS5 and Xbox Series X|S. New Zealand is first.' },
+    { q: 'Is GTA 6 out?', a: 'Yes. Grand Theft Auto VI came out on 19 November 2026 on PS5 and Xbox Series X|S, unlocking at midnight local time in every region. New Zealand was first.' },
+    { q: 'Is there an official GTA 6 map?', a: 'Yes. Rockstar released the official map of Leonida on 19 November 2026 as a free print-ready download on the GTA VI site, under Media, next to the cover art poster.' },
     { q: 'Is GTA 6 on PC?', a: 'A PC version has not been announced. Rockstar has only confirmed PS5 and Xbox Series X|S.' },
     { q: 'How big is the download?', a: 'The pre-load needs up to 212 GB, depending on the console.' },
     { q: 'Where is GTA 6 set?', a: 'The state of Leonida, including Vice City, the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga.' },

@@ -148,7 +148,9 @@ p{margin:0}
 /* map */
 .map{display:grid;grid-template-columns:.9fr 1.1fr;gap:48px;align-items:center}
 .map__text p:not(.kicker){margin:18px 0 26px;color:var(--muted);font-size:18px}
-.map__img{margin:0;position:relative}
+.map__img{margin:0;position:relative;text-align:center;background:#0b2a3a}
+.map__img a{display:block}
+.map__img img{display:block;margin:0 auto;width:auto;max-width:100%;max-height:78vh;height:auto}
 .map__img figcaption{position:absolute;right:12px;bottom:10px;font-size:12px;color:#fff;text-shadow:0 1px 6px #000}
 
 /* faq */
